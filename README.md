@@ -20,10 +20,6 @@
 
 ## 🌟 About Me
 
-style A fill:#E1F5FE
-style E fill:#C8E6C9
-style I fill:#FFF3E0
-
 
 ## 🚀 Featured Projects
 <table align="center">
@@ -38,21 +34,21 @@ style I fill:#FFF3E0
     Real-time Bus Tracking<br/>
     <img src="https://img.shields.io/badge/2K_users-00FF88?style=flat&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/500ms_latency-FF6B6B?style=flat&logo=performance&logoColor=white" />
-    <br/><a href="#">Live Demo →</a>
+    <br/><a href="https://checkitbus.vercel.app/">Live Demo →</a>
   </td>
   <td align="center">
     <b>💼 CareerScout</b><br/>
     AI Job Platform (RAG)<br/>
     <img src="https://img.shields.io/badge/10K_jobs_day-FFD700?style=flat&logo=python&logoColor=black" />
     <img src="https://img.shields.io/badge/40%25_accuracy-00D2FF?style=flat&logo=aim&logoColor=white" />
-    <br/><a href="#">Live Demo →</a>
+    <br/><a href="https://careerscout.vercel.app/">Live Demo →</a>
   </td>
   <td align="center">
     <b>♻️ KabadiHunt</b><br/>
     Waste Management App<br/>
     <img src="https://img.shields.io/badge/80%25_CNN_accuracy-FF69B4?style=flat&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/Razorpay-Integrated-00FF88?style=flat&logo=payment&logoColor=black" />
-    <br/><a href="#">Live Demo →</a>
+    <br/><a href="https://kabadihunt.vercel.app/">Live Demo →</a>
   </td>
 </tr>
 </table>
